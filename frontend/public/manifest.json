@@ -1,0 +1,15 @@
+{
+  "short_name": "NextHire",
+  "name": "NextHire - Interview Preparation Platform",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563EB",
+  "background_color": "#111827"
+} 
