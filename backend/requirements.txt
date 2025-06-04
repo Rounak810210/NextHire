@@ -5,5 +5,5 @@ flask-jwt-extended==4.5.2
 python-dotenv==1.0.0
 werkzeug==2.3.7
 openai==0.28.0
-gunicorn==21.2.0 
-sqlalchemy<2.0
+gunicorn==21.2.0
+sqlalchemy>=2.0.16
